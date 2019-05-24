@@ -1,0 +1,15 @@
+*{margin:0;padding:0}
+#wrapper{
+	margin-left:470px;
+	margin-top:30px;
+	padding:100px;
+	height:40px;
+	width:280px;
+	background-color:#848484;
+	color:white;
+	text-align:center;
+	font-weight:bold;
+}
+#wraper p{
+	margin-top:30px
+	}
